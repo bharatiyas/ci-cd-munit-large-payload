@@ -1,0 +1,9 @@
+{
+  "continent" : "Europe",
+    "countries" : [
+	{"name": "Italy", "capital": "Rome"},
+	{"name": "Spain", "capital": "Madrid"},
+	{"name": "Germany", "capital": "Berlin"},
+	{"name": "Greece", "capital": "Athens"}
+    ]
+}
